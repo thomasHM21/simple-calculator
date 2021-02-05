@@ -9,6 +9,8 @@ public class Main {
 
         System.out.println(A * B);
 
-
+        double C = 22;
+        double D = 15;
+        System.out.println(C-D);
     }
 }
