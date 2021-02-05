@@ -13,4 +13,9 @@ public class Main {
         double D = 15;
         System.out.println(C-D);
     }
+
+    //Metod för att addera och returnera två st integers
+    public static int addNumbers(int a, int b){
+        return a + b;
+    }
 }
